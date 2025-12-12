@@ -7,7 +7,7 @@
 
 I specialize in **Deep Learning**, **Perception**, and **Autonomous Systems**. My work focuses on bridging the gap between raw sensor data (LiDAR, Camera, Radar) and actionable intelligence for ADAS and robotics.
 
-- 🔭 I’m currently working on **Generative AI (LLMs, RAG) for multi-modal systems**.
+- 🔭 I’m currently working on **Generative AI (LLMs, RAG & VLM) for multi-modal systems**.
 - 🚗 Previously at **CARIAD (VW Group)** achieving SOTA results in road topography estimation.
 - 🎓 Master's graduate from **Hochschule Ravensburg-Weingarten** (GPA: 1.7).
 - 💬 Ask me about **Sensor Fusion, YOLO, ROS2, and Depth Estimation**.
