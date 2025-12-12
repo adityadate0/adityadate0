@@ -5,38 +5,41 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adityadate317@gmail.com)
 [![CAD Portfolio](https://img.shields.io/badge/CAD_Portfolio-Wix-000000?style=flat&logo=wix&logoColor=white)](https://adityadate0.wixsite.com/thecadbuilder)
 
-**M.Sc. Mechatronics Graduate | Sensor Fusion & Computer Vision Engineer**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=M.Sc.+Mechatronics+Graduate;Sensor+Fusion+%26+Computer+Vision+Engineer;Deep+Learning+%26+Robotics+Enthusiast;CAD+Designer+%26+Prototyper" alt="Typing Animation" />
+</div>
 
-I specialize in **Deep Learning**, **Perception**, and **Autonomous Systems**. My work focuses on bridging the gap between raw sensor data (LiDAR, Camera, Radar) and actionable intelligence for ADAS and robotics.
+### 🚀 About Me
 
-- 🔭 I’m currently working on **Generative AI (LLMs, RAG & VLM) for multi-modal systems**.
-- 🚗 Previously at **CARIAD (VW Group)** achieving SOTA results in road topography estimation.
-- 🎓 Master's graduate from **Hochschule Ravensburg-Weingarten** (GPA: 1.7).
-- 💬 Ask me about **Sensor Fusion, YOLO, ROS2, and Depth Estimation**.
-
+- 🔭 **Currently:** Working on **Generative AI (LLMs, RAG, VLMs)** for multi-modal systems.
+- 🎓 **Education:** M.Sc. Mechatronics Graduate from **Hochschule Ravensburg-Weingarten** (GPA: 1.7).
+- 💼 **Experience:** Master Thesis at **CARIAD (VW Group)** & ML Engineer at **Nexustec**.
+- 🌱 **Interests:** Sensor Fusion, Autonomous Driving, Deep Learning, and Robotics.
+- 🗣️ **Languages:** German (C1.1), English (C1).
+- 📍 **Location:** Stuttgart, Germany.
+- 📫 **Reach me:** [adityadate317@gmail.com](mailto:adityadate317@gmail.com)
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-**ML & Computer Vision**
+### Frameworks & Libraries
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
-
-**Robotics & Tools**
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
+
+### Databases & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-DA090D?style=flat&logo=solidworks&logoColor=white)
-
 
 ---
 
@@ -83,6 +86,13 @@ I specialize in **Deep Learning**, **Perception**, and **Autonomous Systems**. M
 - Used a pretrained **DenseNet-121 CNN** to concurrently detect 14 different pathologies from chest X-ray images.
 - Applied weight normalization to offset low prevalence of certain diseases in the **NIH ChestXray8** dataset.
 - Implemented **Grad-CAM** for model interpretability to highlight affected lung regions.
+
+---
+
+## 🎨 3D Design & CAD
+
+Beyond algorithms and perception, I am passionate about mechanical design and rapid prototyping.
+- 🛠️ **Check out my designs:** [**The CAD Builder Portfolio**](https://adityadate0.wixsite.com/thecadbuilder)
 
 ---
 
