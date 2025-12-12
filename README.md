@@ -1,5 +1,6 @@
 # Hi there, I'm Aditya Date! 👋
 
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/adityadate0/adityadate0/blob/main/Aditya_Date_Resume.pdf)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityad1709)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adityadate317@gmail.com)
 [![CAD Portfolio](https://img.shields.io/badge/CAD_Portfolio-Wix-000000?style=flat&logo=wix&logoColor=white)](https://adityadate0.wixsite.com/thecadbuilder)
@@ -21,20 +22,21 @@ I specialize in **Deep Learning**, **Perception**, and **Autonomous Systems**. M
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-**AI & Computer Vision**
+**ML & Computer Vision**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-DA090D?style=flat&logo=solidworks&logoColor=white)
 
 **Robotics & Tools**
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-DA090D?style=flat&logo=solidworks&logoColor=white)
+
 
 ---
 
