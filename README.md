@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityad1709)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adityadate317@gmail.com)
+[![CAD Portfolio](https://img.shields.io/badge/CAD_Portfolio-Wix-000000?style=flat&logo=wix&logoColor=white)](https://adityadate0.wixsite.com/thecadbuilder)
 
 **M.Sc. Mechatronics Graduate | Sensor Fusion & Computer Vision Engineer**
 
@@ -27,6 +28,7 @@ I specialize in **Deep Learning**, **Perception**, and **Autonomous Systems**. M
 ![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-DA090D?style=flat&logo=solidworks&logoColor=white)
 
 **Robotics & Tools**
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
