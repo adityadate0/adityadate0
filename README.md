@@ -13,7 +13,7 @@
 
 - 🔭 **Currently:** Working on **Generative AI (LLMs, RAG, VLMs)** for multi-modal systems.
 - 🎓 **Education:** M.Sc. Mechatronics Graduate from **Hochschule Ravensburg-Weingarten** (GPA: 1.7).
-- 💼 **Experience:** Master Thesis at **CARIAD (VW Group)** & ML Engineer at **Nexustec**.
+- 💼 **Experience:** Master Thesis at [**CARIAD (VW Group)**](https://cariad.technology) & ML Engineer at [**Nexustec GmbH**](https://www.nexustec.de)
 - 🌱 **Interests:** Sensor Fusion, Autonomous Driving, Deep Learning, and Robotics.
 - 🗣️ **Languages:** German (C1.1), English (C1).
 - 📍 **Location:** Stuttgart, Germany.
