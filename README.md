@@ -62,6 +62,11 @@
 
 ## 🚀 Featured Projects
 
+### 🧬 [SynthDrive: Automotive Synthetic Data Factory](https://github.com/adityadate0/SynthDrive)
+- Built an **offline synthetic data pipeline** using **Stable Diffusion v1.5** and **ControlNet (Canny)** to generate photorealistic automotive imagery from single frames.
+- Enables natural language instruction (e.g., "make it snowy", "night time") while preserving strict scene geometry for perception training.
+- Designed for low-resource hardware (CPU-compatible, optimized for 4GB VRAM) and includes a **Gradio GUI** for live streaming generation.
+
 ### 🧠 [Hallucination-Free Offline RAG System](https://github.com/adityadate0/Verified-Retrieval-Augmented-Generation)
 - Built a hallucination-free RAG system deploying a specialized Auditor Agent to enforce strict output compliance.
 - Achieved stable performance on CPU-only infrastructure by optimizing local inference and embedding strategies.
