@@ -72,6 +72,11 @@
 - Achieved stable performance on CPU-only infrastructure by optimizing local inference and embedding strategies.
 - Architected a local knowledge engine (FastAPI, ChromaDB) ensuring 100% data sovereignty without external APIs.
 
+### 🐢 [ROS2 Simulation-to-Perception Stack](https://github.com/adityadate0/ROS2-Turtlebot3-Simulation-to-Perception-Stack)
+- Developed a containerized **ROS 2** robotics stack using **Docker** to integrate **Gazebo** simulation with real-time AI perception, ensuring zero-config reproducibility.
+- Designed custom, high-fidelity simulation environments (warehouse, city, apartment) to validate **TurtleBot3** sensor performance in dynamic, cluttered scenarios.
+- Implemented an end-to-end computer vision pipeline bridging ROS 2 and **YOLOv8** to detect and classify obstacles from live video feeds.
+
 ### 🚗 [Multimodal Sensor Fusion for Vehicle Detection](https://drive.google.com/file/d/1FwHR_H6IA8TadkvWKRRZT6uGHsQWdIPY/view?usp=sharing)
 - Developed a camera-LiDAR-radar fusion framework with **YOLOv8x** for detecting cars, minivans, & buses.
 - Implemented 3D-to-2D point cloud projection, bounding box filtering, and results visualization.
